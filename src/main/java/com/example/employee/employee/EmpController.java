@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@CrossOrigin("http://localhost:3000/")
+@CrossOrigin("https://frontend-k461.onrender.com")
 public class EmpController {
 
     ////By using Object
